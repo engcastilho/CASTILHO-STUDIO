@@ -15,6 +15,29 @@
  * ─────────────────────────────────────────────────────────────────────────────
  */
 
+/**
+ * Aceita a URL com ou sem "https://", com espaços ou barra no final — nunca derruba o build.
+ * Ordem: NEXT_PUBLIC_SITE_URL → domínio de produção da Vercel → localhost.
+ */
+function resolveSiteUrl() {
+  const candidates = [
+    process.env.NEXT_PUBLIC_SITE_URL,
+    process.env.VERCEL_PROJECT_PRODUCTION_URL,
+    process.env.VERCEL_URL,
+  ];
+  for (const raw of candidates) {
+    const value = raw?.trim().replace(/\/+$/, "");
+    if (!value) continue;
+    const withProtocol = /^https?:\/\//i.test(value) ? value : `https://${value}`;
+    try {
+      return new URL(withProtocol).origin;
+    } catch {
+      // valor inválido: tenta o próximo
+    }
+  }
+  return "http://localhost:3000";
+}
+
 export const site = {
   studioName: "Castilho Produções",
   /** Assinatura da marca: CASTILHO em destaque, PRODUÇÕES como assinatura secundária. */
@@ -55,11 +78,7 @@ export const site = {
    * URL pública do site. Na Vercel, é detectada automaticamente
    * (VERCEL_PROJECT_PRODUCTION_URL). Para domínio próprio, defina NEXT_PUBLIC_SITE_URL.
    */
-  url:
-    process.env.NEXT_PUBLIC_SITE_URL ??
-    (process.env.VERCEL_PROJECT_PRODUCTION_URL
-      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : "http://localhost:3000"),
+  url: resolveSiteUrl(),
 
   seo: {
     title: "Castilho Produções | Fotografia de Famílias e Retratos",
