@@ -1,0 +1,35 @@
+{
+  "name": "castilho-producoes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site institucional e portfólio da Castilho Produções — fotografia autoral de famílias, casais, gestantes e retratos.",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "images": "node scripts/generate-image-manifest.mjs",
+    "images:optimize": "node scripts/optimize-images.mjs",
+    "dev": "npm run images && next dev",
+    "build": "npm run images && next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.3.6",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.6",
+    "sharp": "^0.35.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

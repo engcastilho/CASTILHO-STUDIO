@@ -1,0 +1,513 @@
+{
+  "/images/about/behind-01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAsAAwBSJQBOgCHhKTvD2oAAAP7KAAH7jni9Q5rnVmBI+d5CcGLwHe2gDpoh54gfI6wFIb5DkAAA",
+    "color": "rgb(248 232 200)",
+    "fingerprint": "44e93c3c476a"
+  },
+  "/images/about/behind-02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoNABAAAwBSJYwCdAEDdz2nzAAA/khz+mXfNb+tFL+Dm4D+e8/POjFWwz+Qglqa3RQQzebYwAAAAA==",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "4a9e5d8d893d"
+  },
+  "/images/about/photographer.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABwAgCdASoNABAAAwBSJZwCdAEfvPvno+YULhAAAPzwQEG+S6mHHq85J/hLVcTrq4Fo2NPspAzgs0KEbP6CTH26AAA=",
+    "color": "rgb(24 24 24)",
+    "fingerprint": "3b3b898f54c3"
+  },
+  "/images/categories/casais.jpg": {
+    "width": 1200,
+    "height": 1800,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoLABAAAwBSJZwAAtz9OtDygAD+2D2fx4l89nVRMNRwczGpD3wc+qC5LjOaJk9gm/cSt9CgAAA=",
+    "color": "rgb(216 216 216)",
+    "fingerprint": "e09b1144270d"
+  },
+  "/images/categories/familias.jpg": {
+    "width": 1200,
+    "height": 1800,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoLABAAAwBSJYwAAtz9y1AlgAD+t+beb3MOLVXXWM4kxnb484W1c25x0rPLDkLfcn6IwAAA",
+    "color": "rgb(200 200 184)",
+    "fingerprint": "aa2576619007"
+  },
+  "/images/categories/gestantes.jpg": {
+    "width": 1200,
+    "height": 1800,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoLABAAAwBSJZQCdADdLBLKUngAAP7XP0EY+Fs3rdOgZsWGOI7x+rV93VcBWHwDuRFmFWgLqAgAAA==",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "8bf151fae364"
+  },
+  "/images/categories/infantil.jpg": {
+    "width": 1200,
+    "height": 1800,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoLABAAAwBSJQBOgCFsGWMGDwAA/tg9n8eKwbZODBriwYmQpACtMttc6YOxlpYkEYomrUMAAAA=",
+    "color": "rgb(248 232 216)",
+    "fingerprint": "5871c6e0980e"
+  },
+  "/images/categories/retratos.jpg": {
+    "width": 1200,
+    "height": 1800,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAgCdASoLABAAAwBSJZwCdAELZSXc6h9CAAD8+ygBRvq/as1PsCwC13x5iYIJ3zhZbNPDaR6AxWMgfhpoAA==",
+    "color": "rgb(24 24 24)",
+    "fingerprint": "d97bac29b6bb"
+  },
+  "/images/cinematic/break.jpg": {
+    "width": 2400,
+    "height": 1004,
+    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoQAAcAAwBSJZQC7AEOu0ltQAD+6Ihg/romOOXBGMVbpifz/9bvUYAA",
+    "color": "rgb(216 216 216)",
+    "fingerprint": "30107f1d16c3"
+  },
+  "/images/cta/cta.jpg": {
+    "width": 1920,
+    "height": 1080,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAkAAwBSJZQCdAEOu26Z/lAA/oQNKBG5YszzdvNXJ8JwmyZ9uxfQ4f4TrjupswQAee/JfVAAAA==",
+    "color": "rgb(72 72 88)",
+    "fingerprint": "242198f2291c"
+  },
+  "/images/experience/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoQAAsAAwBSJYwCdAEWMBfK2AAA/thEhSSOVUiYl1C0392tHXz6EmlXa3/TUyF/7zarvvFcAAA=",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "fec1a33b2485"
+  },
+  "/images/experience/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoNABAAAwBSJQBOgCHh8MeIIRAA/snwcKt17sDqw0/iIIL3CgjsNWW/jiweYrZgILP38cCMUTVqGAAA",
+    "color": "rgb(248 232 216)",
+    "fingerprint": "5bfa180d6a33"
+  },
+  "/images/hero/hero-mobile.jpg": {
+    "width": 1080,
+    "height": 1920,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoJABAAAwBSJQBOgCHh5xJmlEAAAP7ibX8vpVzxg7vzsh7Dn5SBl61cCthuUBaYDzgzCgf84AA=",
+    "color": "rgb(232 216 200)",
+    "fingerprint": "35c10e866551"
+  },
+  "/images/hero/hero.jpg": {
+    "width": 2400,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoQAAoAAwBSJQBOgCH/inDBwAD+1/kLCAdJOBxT9QhFMqn7aV4KcAo666s5HWApDsH8yAAA",
+    "color": "rgb(232 216 200)",
+    "fingerprint": "e4c75c1d7f5b"
+  },
+  "/images/instagram/01.jpg": {
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoNABAAAwBSJQBOgCIG+VWTDiAA/soACUDWCuNChHita1gdK230fluGDJmaDLJx2Lvs8vuMN208Zc0R5P1coMwAAAA=",
+    "color": "rgb(232 216 200)",
+    "fingerprint": "1463cdb31939"
+  },
+  "/images/instagram/02.jpg": {
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoNABAAAwBSJZQCdAD7FhSveTSAAM44V/uU0ZuukhgRKzPJA0dI1m/k/o/aZvvFqwM+6VGgAAA=",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "8c478bf2880d"
+  },
+  "/images/instagram/03.jpg": {
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoNABAAAwBSJZQCdAEO5o98hVwAAP7Q6Vh9GJSBWb+rZGG3XyB0XW1929WB/z7ArlQ0zmqSjC9X5KAPPTHk5wGhYAA=",
+    "color": "rgb(40 40 40)",
+    "fingerprint": "1217a0499271"
+  },
+  "/images/instagram/04.jpg": {
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoNABAAAwBSJZQC7AEPD2H2jkRAAP7X9sdIyJ2JinE7qYxIgmela5P2JhILCPknRn/CWUAA",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "327c3e360859"
+  },
+  "/images/instagram/05.jpg": {
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoNABAAAwBSJYwAAtqz/0btMYAA/rfm37GnUoZq6YGyN2CJ2xes03jvp36sKbFdH+5P0RgA",
+    "color": "rgb(216 216 200)",
+    "fingerprint": "3d9c30fbbba1"
+  },
+  "/images/instagram/06.jpg": {
+    "width": 1080,
+    "height": 1350,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoNABAAAwBSJZwCdAELXa9qnMwAAPzwSlj8qnkiconxI1LN71MHyArDPg67PGuHfGTVMsAlI2AAAA==",
+    "color": "rgb(152 152 136)",
+    "fingerprint": "ba9b0491fd48"
+  },
+  "/images/manifesto/01.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoNABAAAwBSJZQCsADdHAUPYAD+6Ie41DAhejtyrgaRj3k/iF5Voi299Rz6AcpFVj1Eutfe2X3WPoT0hgAAAA==",
+    "color": "rgb(200 200 184)",
+    "fingerprint": "a382a00e2a23"
+  },
+  "/images/manifesto/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAQCdASoNABAAAwBSJZQCdADyQ+AA/tzvuAPz2vDJrIgLiQODnbArxGc/PM3VQrWD8OTqoQ9pcK3sPg7PXEPCCM5OcBDgAAA=",
+    "color": "rgb(40 40 40)",
+    "fingerprint": "112cf0946b8f"
+  },
+  "/images/manifesto/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoNABAAAwBSJZQCdADGVyh2AAAA/rd4oFKZgjdCT+CMFYjdL91qRH1s080Fl6cbT1oL/AWAAAA=",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "04994470c8ef"
+  },
+  "/images/manifesto/04.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoNABAAAwBSJQBOgCHu5UDQJ9gA/spjCldXG0+Rm9pVbEk5ja+8izocLFntrVsGu+tGW5bFbSNXk9YQAAA=",
+    "color": "rgb(232 216 200)",
+    "fingerprint": "28c85372f815"
+  },
+  "/images/manifesto/05.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoNABAAAwBSJZQCdAD0mMb0p/zAAP20TdCOhI5qWaN16FCla31OqvAfpwIo+9YAfP4AoyOANV3iKAAA",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "de988f677aea"
+  },
+  "/images/portfolio/antes-do-sim/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoQAAsAAwBSJZQCdAEPEGpE19ulwAD+wHYdUHUcnfwbD+5kBASalik4Fc8nKb4vEyU7LMAEtw8EWL4XhSAAAA==",
+    "color": "rgb(88 88 104)",
+    "fingerprint": "9d96df4a97de"
+  },
+  "/images/portfolio/antes-do-sim/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoNABAAAwBSJZQCdADb3VugAP7dq8kDPNDNcvmWnYkLQdX8hR573h+C1oLIxi9v/i0HM5dYtwk2lpR56Y8nOA0LAAA=",
+    "color": "rgb(88 88 104)",
+    "fingerprint": "78e1074540a1"
+  },
+  "/images/portfolio/antes-do-sim/03.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQAAsAAwBSJZQCdADzfAZCAAD+rFlagTClakNAXAF+mSiOycZ2NJoclreMxAqI0MI229ZEH1F1cMG0fkpqUXkxAAA=",
+    "color": "rgb(88 88 104)",
+    "fingerprint": "e56a002eabe9"
+  },
+  "/images/portfolio/antes-do-sim/04.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoNABAAAwBSJZQCdIExE0vxt0AA/sG0NXvUZ50IAowEdQqTS6IqRhXh8IiMvOxNM1AjUCVICM8a1QYzZeTKuldSfTB0oQRLz/aooAAA",
+    "color": "rgb(40 40 40)",
+    "fingerprint": "032ec73cc313"
+  },
+  "/images/portfolio/antes-do-sim/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAgCdASoQAAsAAwBSJZwCdH8AF/TcdnUAAP7Q+BmRo4QBmPXg+4dY0hg9dA3Hk+LhWfXTjuDELSAA",
+    "color": "rgb(72 72 88)",
+    "fingerprint": "b5ae56b30df9"
+  },
+  "/images/portfolio/antes-do-sim/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoNABAAAwBSJZQCdAEO8TexrX7cwAD+0PjgGibFcif2AizZVZoLanAT90e8QAwnccYGn/quS0YbqGkcX9jyPPTHk3N+ywAA",
+    "color": "rgb(40 40 40)",
+    "fingerprint": "e03ee4b6ebb5"
+  },
+  "/images/portfolio/casa-cheia/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAsAAwBSJYwCdAEecKY5/wAA/thEgwk89VvMUOBDGiADjNO7kQ+VSDzxrqlRtgAAAA==",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "4868884278c3"
+  },
+  "/images/portfolio/casa-cheia/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAwAgCdASoNABAAAwBSJZQC7AELZQTzC5JgUAD+66az+BbFD3VoBwOTCBMO6vtmjTj3teKCO02AAA==",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "b71896a0161b"
+  },
+  "/images/portfolio/casa-cheia/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoNABAAAwBSJZQCdAD6AExhMQAA/bGhoQbi+F7yi11kKDxWh0jOPdjAIQt/lQBLuzLqCV5GsWlaPNM1+bYAAA==",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "1835cc8fcd35"
+  },
+  "/images/portfolio/casa-cheia/04.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQAAsAAwBSJYwCdAEU9/PP0bUAAP4LIDJnooxLKDgxD1jAza8fVq5/FdZEP1FH+M6FxXvvFcAAAA==",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "017c12599b61"
+  },
+  "/images/portfolio/casa-cheia/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoQAAsAAwBSJYwCdAEQNZVOUHgAAP7iN1RZag+SewB25EVdd1ErOhJ5aTO/4L8EOFgAAA==",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "7e8d6b0b07ff"
+  },
+  "/images/portfolio/casa-cheia/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoNABAAAwBSJZQCdADG5yO9gAAA/tf/HZl6CyfEAS/EP+HGnPKJU79bQ4WD3mHv3dbaadawAAA=",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "b4b514680c86"
+  },
+  "/images/portfolio/dez-anos-depois/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAsAAwBSJZQAAudekAbtAAD+1/kLiiYgNlPBbqWfttHMizLtMNc5UNgAAA==",
+    "color": "rgb(216 216 216)",
+    "fingerprint": "5200b923b417"
+  },
+  "/images/portfolio/dez-anos-depois/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAQCdASoNABAAAwBSJZwAAh4vykQA/snwfeHoRp1B3/JfYk+vTxCopHXkYViTtFaZBVbsQYtHwgPK0DaLaaMHJgbkfgAA",
+    "color": "rgb(200 200 200)",
+    "fingerprint": "7ed7138b822c"
+  },
+  "/images/portfolio/dez-anos-depois/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoNABAAAwBSJZwAAlxGHaES8AD+ygAPDGKcVJqLzj0pV8AYeQh8BIOdmqcXk30mMyvUY4AA",
+    "color": "rgb(200 200 200)",
+    "fingerprint": "f06de5e72d24"
+  },
+  "/images/portfolio/dez-anos-depois/04.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoQAAsAAwBSJZQAAuiuU2RoAP7X9sfixGNIEuhP3flgAAAA",
+    "color": "rgb(216 216 216)",
+    "fingerprint": "22dab296323b"
+  },
+  "/images/portfolio/dez-anos-depois/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAsAAwBSJZQAAxamLjN7qAAA/tf2m25UNVE4Iw2EXh187XbyU7qE2MupAeAA",
+    "color": "rgb(232 232 232)",
+    "fingerprint": "9d6e2d841028"
+  },
+  "/images/portfolio/dez-anos-depois/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoNABAAAwBSJZwAAuiwJ0PmQpLAAP7KAAlA1fwOXpEfagOzOAEBpJiBcKIZKpGfPGsjCGbQWHqMcAAA",
+    "color": "rgb(216 216 216)",
+    "fingerprint": "71702774573f"
+  },
+  "/images/portfolio/luz-de-janela/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsAAwBSJYwCdAEKeqtPoAD+ypT8wAUw0P653/g5UXEw5Kbf50cBcc5zruTaG5e9UqMgAAA=",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "62d8d2ca745e"
+  },
+  "/images/portfolio/luz-de-janela/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoNABAAAwBSJYwCdADc91AHMwAA/khpU002C4/iFIw8cBlqj1aMvKQd5HGsig3VbAnuFM7wtyAxgAAA",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "c5db9e813250"
+  },
+  "/images/portfolio/luz-de-janela/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoNABAAAwBSJZQC7AEfk2asPZo6AAD+66a6WDg0mYoCrT33+3R+Dt6ceryXdMVDU3OVWhXpDolPomJo8AA=",
+    "color": "rgb(232 232 232)",
+    "fingerprint": "fac765755a65"
+  },
+  "/images/portfolio/luz-de-janela/04.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsAAwBSJZQCdACxfsI4AAD7+FvSdkufvE9tKzjFEjtjatku7sWZFq7Dm/prby4qgLWJT2AAAA==",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "4539631c1705"
+  },
+  "/images/portfolio/luz-de-janela/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsAAwBSJYwCdACgqkRegAD+Pz6XcW5hywCUpmOimb7DFRtcgkfdMpboGARdljdqO8gAAAA=",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "01d0e0a27cb7"
+  },
+  "/images/portfolio/luz-de-janela/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoNABAAAwBSJYwCdADcZFa3VdIA/pG9U4eKrWPrO83XxHyNxRBMXupLNUUOW22U1DyrfTuYaAA=",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "ab35002069dc"
+  },
+  "/images/portfolio/presenca/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoQAAsAAwBSJZQCdAEJL1FDbAAA4l3l7PkyeJYfgt9Jy80U2FyRY0jBmaMsUmAA",
+    "color": "rgb(152 152 136)",
+    "fingerprint": "c897dd04a7d9"
+  },
+  "/images/portfolio/presenca/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoNABAAAwBSJZwCdAELXQ52mSkAAPk4T0/nwsO+pG9nAVkLeR9+dpSJmO+cRCqZqVVvncP4cFAAAA==",
+    "color": "rgb(152 152 136)",
+    "fingerprint": "284e3f2b9b3e"
+  },
+  "/images/portfolio/presenca/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAwAgCdASoNABAAAwBSJZQCdAEfkz+OkTskAADiXbRgY03BoAqNbcbtdNMg2j9LarVZ4NPRHx03YlNYsAA=",
+    "color": "rgb(24 24 24)",
+    "fingerprint": "12b6aa11747f"
+  },
+  "/images/portfolio/presenca/04.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsAAwBSJYwCdACyWWVUQAD+Pz6XFlbdgfLMn2IwofMTCfhCMUNDG6f7/81PNns41V6HSFAAAA==",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "ca9400674df9"
+  },
+  "/images/portfolio/presenca/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAsAAwBSJZwCdAEQK8mEAADiXeXtT8gFZ3yfoyh2ryi3D87AAA==",
+    "color": "rgb(152 136 136)",
+    "fingerprint": "681699c89caa"
+  },
+  "/images/portfolio/presenca/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAgCdASoNABAAAwBSJZwCdAEfvYpJ2zccgAD5OCeYfSPxZYwAa/Mkrmyf5qpQqIuJihaRnPCVz8QJ5E+3QAAA",
+    "color": "rgb(24 24 24)",
+    "fingerprint": "ccee933f6361"
+  },
+  "/images/portfolio/primeiro-verao/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsAAwBSJYwAAvccUKOegAD+mnNi7Rbcna1cBFMTR23w3CXFgoDr2Cr7Q/9B8V8AAA==",
+    "color": "rgb(200 200 184)",
+    "fingerprint": "563065e84235"
+  },
+  "/images/portfolio/primeiro-verao/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoNABAAAwBSJZQC7AEK+QKN32gAAP7rprP4FjEmPHimEeZF8sTfEmj/TLqfVFVIL4j6xp/L2yF/WEWS5AA=",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "52280cd0f293"
+  },
+  "/images/portfolio/primeiro-verao/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoNABAAAwBSJYwCdAEXwuiui+E4AAD+t+cPpy7qTo7ddn9ceCp5peTiiYBxTSr1VwHrNTIKJWjiwB6trMKWBaje/AAAAA==",
+    "color": "rgb(184 184 168)",
+    "fingerprint": "ba000de5f2f0"
+  },
+  "/images/portfolio/primeiro-verao/04.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAsAAwBSJYwAAvjX4famgAD+t11tjDhrIXWYMW5ynM0V/8MEfFufoPivgAAA",
+    "color": "rgb(216 216 200)",
+    "fingerprint": "375bc9c74f05"
+  },
+  "/images/portfolio/primeiro-verao/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoQAAsAAwBSJQBOgCIIyOAVAAD+1/bCAK717h1iOXCjFWvLy+PM2II+fUp4JG7vse1wAA==",
+    "color": "rgb(232 216 184)",
+    "fingerprint": "efd6006edb2c"
+  },
+  "/images/portfolio/primeiro-verao/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoNABAAAwBSJYwAAuddIKxgAP635t/hbqyGO4o6Qb36wDPaqYcubUnXmDeuv4fcn6IwAA==",
+    "color": "rgb(200 200 184)",
+    "fingerprint": "8d5a3f5afd4f"
+  },
+  "/images/portfolio/quarenta-semanas/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsAAwBSJYwCdAEWPXct2LgA/thhShnYijah1uORUyi9ZGq1xdXfz7bp+9eQ4Ny2AAAA",
+    "color": "rgb(136 120 104)",
+    "fingerprint": "eda14413f821"
+  },
+  "/images/portfolio/quarenta-semanas/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoNABAAAwBSJQBOgCICl5RMsIAA/snwWcP7irX92x2T90gwwNo5v5z/fCmYXic10YCqkXsV9wNC7iMUTVqGAAAA",
+    "color": "rgb(232 216 200)",
+    "fingerprint": "9b16ee4c8535"
+  },
+  "/images/portfolio/quarenta-semanas/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoNABAAAwBSJZQC7ADGtfcFh8AA/uiHuNRAy2Y1pXixYrwoHtq3MXvGzi8LCD4Pw+gZZdPG0NEWvqLAeLb0AAAA",
+    "color": "rgb(216 216 200)",
+    "fingerprint": "66c202d85582"
+  },
+  "/images/portfolio/quarenta-semanas/04.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAQCdASoQAAsAAwBSJZQCdAEUo19lh4AA/uI3WoBrUdvE/ZyyElL4nbnIbsAA",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "dab92c2d55b5"
+  },
+  "/images/portfolio/quarenta-semanas/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADQAQCdASoQAAsAAwBSJQBOgCHoQSv4AAD+1/bCAHAUwz79pT/OdzpNhDzb5VHHjvexTHyCNcjw1GJrHr8AAA==",
+    "color": "rgb(232 216 184)",
+    "fingerprint": "8fcd37d09cf5"
+  },
+  "/images/portfolio/quarenta-semanas/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAAAQAgCdASoNABAAAwBSJZQCdAEQNlIBlyAAAP7X9qzzaejZVPEnAiSXbTStWpHhjVy56xSn/RaLM3ELsgA=",
+    "color": "rgb(248 248 248)",
+    "fingerprint": "f0f1f53a7655"
+  },
+  "/images/portfolio/tarde-de-domingo/01.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAQAgCdASoQAAsAAwBSJQBOgCHpW+k/13AAAP7KAy4ichlpJmfHIFTClRfJD8U53sHG2lWrOVg6lO2WA5gVYAAA",
+    "color": "rgb(248 232 200)",
+    "fingerprint": "d61ffac0d76e"
+  },
+  "/images/portfolio/tarde-de-domingo/02.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoNABAAAwBSJYgCdAEPDo3xmgAA/snwcK2smXsxzb3EUqHgNzgB+mHltfH8G55jeTU0ClcIBJ6GBvcoDYN1ogAA",
+    "color": "rgb(232 216 200)",
+    "fingerprint": "ab36968222eb"
+  },
+  "/images/portfolio/tarde-de-domingo/03.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoNABAAAwBSJQBOgCHfJrh0DJ8AAP7J8Fpx74uvWF0Wr14t0kui44LetjohvrH1fLFCf/Uta6n8kcqItpcGihfEAAA=",
+    "color": "rgb(232 216 200)",
+    "fingerprint": "eac4e9bd8049"
+  },
+  "/images/portfolio/tarde-de-domingo/04.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAsAAwBSJQBOgCKUEcq3TAAA/tf2x+A6D/IGwTfyeGfFgpX5dR7uMMHgmJvhMtWEAAAA",
+    "color": "rgb(248 232 216)",
+    "fingerprint": "98b6fca7b6b4"
+  },
+  "/images/portfolio/tarde-de-domingo/05.jpg": {
+    "width": 1800,
+    "height": 1200,
+    "blurDataURL": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoQAAsAAwBSJQBOgCIFfvIGAAD+ygAKEupLBURtZeK+lQ870xDhl2yMCjTTI8O7igIm7AwAAAA=",
+    "color": "rgb(232 216 184)",
+    "fingerprint": "0469a5fc57ec"
+  },
+  "/images/portfolio/tarde-de-domingo/cover.jpg": {
+    "width": 1200,
+    "height": 1500,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoNABAAAwBSJQBOgCHh28YIAP7KYwpXXuwFlK7SoUFu39NyEtzQ86qc/+pbJFaMeoi77URiiatQwAAA",
+    "color": "rgb(248 232 216)",
+    "fingerprint": "68d35778bd3a"
+  }
+}
